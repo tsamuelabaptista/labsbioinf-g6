@@ -13,10 +13,10 @@ Este repositório contém o código desenvolvido pelo grupo 6 utilizando a ferra
 - **Genes:** descrever **onde** estão os genes e o trabalho de analise destes
 
 ## Genes Analisados:
-1. TSLP
-2. WDR36
-3. C11ORF30
-4. FLG
+1. FLG
+2. C11ORF30
+3. TSLP
+4. WDR36
 
 ## Link para o Padlet do Grupo:
 [Trabalho de Laboratórios de Bioinformática](https://padlet.com/Samuel_Baptista/trabalho-de-laborat-rios-de-bioinform-tica-bb5i3a1w0dj59yg0)
