@@ -9,8 +9,8 @@
 Este repositório contém o código desenvolvido pelo grupo 6 utilizando a ferramenta BioPython e os seus módulos. O objetivo é realizar a análise exploratória do papel biológico de cada gene.
 
 ### Estrutura do Repositório:
-- **Scripts:** Pasta contendo todo o código desenvolvido pelo grupo, organizado por tópico e como módulo.
-- **Genes:** Pasta dedicada ao trabalho desenvolvido para cada gene analisado.
+- **Scripts:** descrever **onde** estão os scripts e o trabalho de analise destes
+- **Genes:** descrever **onde** estão os genes e o trabalho de analise destes
 
 ## Genes Analisados:
 1. TSLP
